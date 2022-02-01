@@ -4,4 +4,4 @@ This webpage is created while learning how to use Jekyll, Markdown and Github fo
 
 # Building Websites in GitHub
 
-More details about the project are available from the [About page](about).
+More details about the project are available from the [About page](about.md).
